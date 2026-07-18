@@ -161,5 +161,4 @@ Additional plots include [ROC curves](Outputs/Graphical%20analysis/ROC%20Curves.
 - SHAP explains model behavior, not medical causality.
 
 ## License and data use
-
-No software license or dataset redistribution terms are included in this repository. Review the source survey's terms and the project report before redistributing the data or using the outputs beyond research and education.
+Added a proper MIT license for the project.
